@@ -13,7 +13,7 @@
       "properties": {
         "capital": "Algiers",
         "country": "Algeria",
-        "description": "Please click the link field for more information about this place",
+        "description": "Please click the link field for more information about this place to get more info.  Photo and information sources include but are not limited to Britannica.com and Wikipedia.com",
         "image": "images/algiers-slider-960x430.jpg",
         "link": "https://www.britannica.com/topic-browse/Countries-of-the-World/Countries-of-Africa/Algeria"
       }
@@ -30,7 +30,7 @@
       "properties": {
         "capital": "Luanda",
         "country": "Angola",
-        "description": "Please click the link field for more information about this place",
+        "description": "Please click the link field for more information about this place to get more info.  Photo and information sources include but are not limited to Britannica.com and Wikipedia.com",
         "image": "images/Luanda-Angola.jpg",
         "link": "https://www.britannica.com/topic-browse/Countries-of-the-World/Countries-of-Africa/Angola"
       }
@@ -47,7 +47,7 @@
       "properties": {
         "capital": "Porto-Novo",
         "country": "Benin",
-        "description": "Want to visit the capital city",
+        "description": "Please click the link field for more information about this place to get more info.  Photo and information sources include but are not limited to Britannica.com and Wikipedia.com",
         "image": "images/Benin.jpg",
         "link": "https://www.britannica.com/topic-browse/Countries-of-the-World/Countries-of-Africa/Benin"
       }
@@ -64,7 +64,7 @@
       "properties": {
         "capital": "Gaborone",
         "country": "Botswana",
-        "description": "Want to visit the capital city",
+        "description": "Please click the link field for more information about this place to get more info.  Photo and information sources include but are not limited to Britannica.com and Wikipedia.com",
         "image": "images/15317361engGBgaborone-1680x600.jpg",
         "link": "https://www.britannica.com/topic-browse/Countries-of-the-World/Countries-of-Africa/Botwsana"
       }
@@ -81,7 +81,7 @@
       "properties": {
         "capital": "Ouagadougou",
         "country": "Burkina Faso",
-        "description": "Want to visit the capital city",
+        "description": "Please click the link field for more information about this place to get more info.  Photo and information sources include but are not limited to Britannica.com and Wikipedia.com",
         "image": "images/Ouagadougou.jpg",
         "link": "https://www.britannica.com/place/Burkina-Faso"
       }
@@ -98,7 +98,7 @@
       "properties": {
         "capital": "Bujumbura",
         "country": "Burundi",
-        "description": "Want to visit the capital city",
+        "description": "Please click the link field for more information about this place to get more info.  Photo and information sources include but are not limited to Britannica.com and Wikipedia.com",
         "image": "images/Bujumbura-Burundi.jpg",
         "link": "https://www.britannica.com/place/Burundi"
       }
@@ -115,7 +115,7 @@
       "properties": {
         "capital": "Yaoundé",
         "country": "Cameroon",
-        "description": "Want to visit the capital city",
+        "description": "Please click the link field for more information about this place to get more info.  Photo and information sources include but are not limited to Britannica.com and Wikipedia.com",
         "image": "images/Yaounde.jpg",
         "link": "https://www.britannica.com/place/Camaroon"
       }
@@ -132,7 +132,7 @@
       "properties": {
         "capital": "Praia",
         "country": "Cape Verde",
-        "description": "Want to visit the capital city",
+        "description": "Please click the link field for more information about this place to get more info.  Photo and information sources include but are not limited to Britannica.com and Wikipedia.com",
         "image": "images/Praia.jpg",
         "link": "https://www.britannica.com/place/Cabo-Verde"
       }
@@ -149,7 +149,7 @@
       "properties": {
         "capital": "Bangui",
         "country": "Central African Republic",
-        "description": "Want to visit the capital city",
+        "description": "Please click the link field for more information about this place to get more info.  Photo and information sources include but are not limited to Britannica.com and Wikipedia.com",
         "image": "images/Bangui.jpg",
         "link": "https://www.britannica.com/place/Central-African-Republic"
       }
@@ -166,7 +166,7 @@
       "properties": {
         "capital": "N'Djamena",
         "country": "Chad",
-        "description": "Want to visit the capital city",
+        "description": "Please click the link field for more information about this place to get more info.  Photo and information sources include but are not limited to Britannica.com and Wikipedia.com",
         "image": "images/N'Djamena.jpg",
         "link": "https://www.britannica.com/place/Chad"
       }
@@ -183,7 +183,7 @@
       "properties": {
         "capital": "Moroni",
         "country": "Comoros",
-        "description": "Want to visit the capital city",
+        "description": "Please click the link field for more information about this place to get more info.  Photo and information sources include but are not limited to Britannica.com and Wikipedia.com",
         "image": "images/Moroni.jpg",
         "link": "https://www.britannica.com/place/Comoros"
       }
@@ -200,7 +200,7 @@
       "properties": {
         "capital": "Kinshasa",
         "country": "Democratic Republic of the Congo",
-        "description": "Want to visit the capital city",
+        "description": "Please click the link field for more information about this place to get more info.  Photo and information sources include but are not limited to Britannica.com and Wikipedia.com",
         "image": "images/Kinshasa.jpg",
         "link": "https://www.britannica.com/place/Democratic-Republic-of-the-Congo"
       }
@@ -217,7 +217,7 @@
       "properties": {
         "capital": "Djibouti",
         "country": "Djibouti",
-        "description": "Want to visit the capital city",
+        "description": "Please click the link field for more information about this place to get more info.  Photo and information sources include but are not limited to Britannica.com and Wikipedia.com",
         "image": "images/Djibouti.jpg",
         "link": "https://www.britannica.com/place/Djibouti"
       }
@@ -234,7 +234,7 @@
       "properties": {
         "capital": "Cairo",
         "country": "Egypt",
-        "description": "Want to visit the capital city",
+        "description": "Please click the link field for more information about this place to get more info.  Photo and information sources include but are not limited to Britannica.com and Wikipedia.com",
         "image": "images/GI_815359526_CitadelView_Cairo.jpg",
         "link": "https://www.britannica.com/place/Egypt"
       }
@@ -251,7 +251,7 @@
       "properties": {
         "capital": "Malabo",
         "country": "Equatorial Guinea",
-        "description": "Want to visit the capital city",
+        "description": "Please click the link field for more information about this place to get more info.  Photo and information sources include but are not limited to Britannica.com and Wikipedia.com",
         "image": "images/Malabo-Equatorial-Guinea.jpg",
         "link": "https://www.britannica.com/place/Equatorial-Guinea"
       }
@@ -268,7 +268,7 @@
       "properties": {
         "capital": "Asmara",
         "country": "Eritrea",
-        "description": "Want to visit the capital city",
+        "description": "Please click the link field for more information about this place to get more info.  Photo and information sources include but are not limited to Britannica.com and Wikipedia.com",
         "image": "images/ERI-Asmara-3.jpg",
         "link": "https://www.britannica.com/place/Eritrea"
       }
@@ -285,7 +285,7 @@
       "properties": {
         "capital": "Addis Ababa",
         "country": "Ethiopia",
-        "description": "Want to visit the capital city",
+        "description": "Please click the link field for more information about this place to get more info.  Photo and information sources include but are not limited to Britannica.com and Wikipedia.com",
         "image": "images/Addis.jpg",
         "link": "https://www.britannica.com/place/Ethiopia"
       }
@@ -302,7 +302,7 @@
       "properties": {
         "capital": "Libreville",
         "country": "Gabon",
-        "description": "Want to visit the capital city",
+        "description": "Please click the link field for more information about this place to get more info.  Photo and information sources include but are not limited to Britannica.com and Wikipedia.com",
         "image": "images/Libreville.jpg",
         "link": "https://www.britannica.com/place/Gabon"
       }
@@ -319,7 +319,7 @@
       "properties": {
         "capital": "Banjul",
         "country": "Gambia",
-        "description": "Want to visit the capital city",
+        "description": "Please click the link field for more information about this place to get more info.  Photo and information sources include but are not limited to Britannica.com and Wikipedia.com",
         "image": "images/Banjul-King-Fahad-Mosque.jpg",
         "link": "https://www.britannica.com/place/Gambia"
       }
@@ -336,7 +336,7 @@
       "properties": {
         "capital": "Accra",
         "country": "Ghana",
-        "description": "Want to visit the capital city",
+        "description": "Please click the link field for more information about this place to get more info.  Photo and information sources include but are not limited to Britannica.com and Wikipedia.com",
         "image": "images/accra-1.jpg",
         "link": "https://www.britannica.com/place/Ghana"
       }
@@ -353,7 +353,7 @@
       "properties": {
         "capital": "Conakry",
         "country": "Guinea",
-        "description": "Want to visit the capital city",
+        "description": "Please click the link field for more information about this place to get more info.  Photo and information sources include but are not limited to Britannica.com and Wikipedia.com",
         "image": "images/Conakry.jpg",
         "link": "https://www.britannica.com/place/Guinea"
       }
@@ -370,7 +370,7 @@
       "properties": {
         "capital": "Bissau",
         "country": "Guinea-Bissau",
-        "description": "Want to visit the capital city",
+        "description": "Please click the link field for more information about this place to get more info.  Photo and information sources include but are not limited to Britannica.com and Wikipedia.com",
         "image": "images/Bissau.PNG",
         "link": "https://www.britannica.com/place/Guinea-Bissau"
       }
@@ -387,7 +387,7 @@
       "properties": {
         "capital": "Yamoussoukro",
         "country": "Ivory Coast",
-        "description": "Want to visit the capital city",
+        "description": "Please click the link field for more information about this place to get more info.  Photo and information sources include but are not limited to Britannica.com and Wikipedia.com",
         "image": "images/Yamoussoukro.jpg",
         "link": "https://www.britannica.com/place/Cote-dIvoire"
       }
@@ -404,7 +404,7 @@
       "properties": {
         "capital": "Nairobi",
         "country": "Kenya",
-        "description": "Want to visit the capital city",
+        "description": "Please click the link field for more information about this place to get more info.  Photo and information sources include but are not limited to Britannica.com and Wikipedia.com",
         "image": "images/DnNairobi0112b.jpg",
         "link": "https://www.britannica.com/place/Kenya"
       }
@@ -421,7 +421,7 @@
       "properties": {
         "capital": "Maseru",
         "country": "Lesotho",
-        "description": "Want to visit the capital city",
+        "description": "Please click the link field for more information about this place to get more info.  Photo and information sources include but are not limited to Britannica.com and Wikipedia.com",
         "image": "images/Maseru_from_Parliament_Hill.jpg",
         "link": "https://www.britannica.com/place/Losetho"
       }
